@@ -1,0 +1,15 @@
+[user]
+	name = Daniel Haas
+	email = dhaas@eecs.berkeley.edu
+
+[alias]
+	co = checkout
+	st = status
+	cm = commit
+	d = diff
+	l = log
+	b = branch
+[push]
+	default = simple
+[branch]
+	autosetuprebase = always
